@@ -1,4 +1,4 @@
-package part2
+package dataframes_part2
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
